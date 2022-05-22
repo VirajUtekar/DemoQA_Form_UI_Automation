@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.792">
+    <testcase classname="Form Automation" name="verify form validation" time="13.601">
+        <system-out><![CDATA[Given navigate to site url..................................................passed
+And enter "Viraj" into fullname field.......................................passed
+And enter "test@gmail.com" into email field.................................passed
+And enter "mumbai" into currentAddress field................................passed
+And enter "mumbai" into permanentAddress fied...............................passed
+Then click on submit........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
